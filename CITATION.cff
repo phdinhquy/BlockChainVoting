@@ -1,0 +1,18 @@
+authors: 
+  -
+    family-names: PHAM
+    given-names: DINH QUY
+  -
+    family-names: PHAM
+    given-names: THI KIM ANH
+  -
+    affiliation: "Ph.D"
+    family-names: TRINH
+    given-names: CONG DUY
+cff-version: "1.1.0"
+date-released: 2022-01-01
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/phdinhquy/BlockChainVoting"
+title: BlockChainVoting
+version: "v1.0"
+...
